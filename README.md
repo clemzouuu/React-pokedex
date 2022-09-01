@@ -1,6 +1,6 @@
 # React-pokedex
 Premier projet en React. Pokédex
-Apprentissage : Composants, Hooks, Dom virtuel, Proprs, navigations, formulaires.
+Apprentissage : Composants, Hooks, Dom virtuel, Props, navigations, formulaires.
 Première utilisation de Type Script
 
 ![Capture d’écran 2022-06-24 à 10 45 07](https://user-images.githubusercontent.com/92720413/175499354-4bc5a1a8-1616-4ddf-bb1d-bfbb7b413989.png)
